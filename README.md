@@ -29,5 +29,7 @@ WeatherAPI - Weather data provider
 
 Material Design 3 - Design system
 
+![Image](https://github.com/user-attachments/assets/718689de-763f-46c3-ad4d-eb8b3207edc3)
+
 
 
